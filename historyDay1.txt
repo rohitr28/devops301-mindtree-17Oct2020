@@ -1,0 +1,95 @@
+    1  git status
+    2  git clone
+    3  git clone https://github.com/rohitr28/devops301-mindtree-17Oct2020
+    4  echo "Hello World" >hello.txt
+    5  git status
+    6  git add Hello.txt
+    7  cd
+    8  https://github.com/rohitr28/devops301-mindtree-17Oct2020
+    9  cd
+   10  echo "Hello World" >hello.txt
+   11  git status
+   12  cd devops301-mindtree-17oct2020
+   13  cd devops301-mindtree-17Oct2020/
+   14  echo "Hello world" >hello.txt
+   15  git status
+   16  git add Hello.txt
+   17  git commit-m "New File-Hello.txt"
+   18  git commit -m "New file - Hello.txt"
+   19  git add Hello.txt
+   20  git status
+   21  git add hello.txt
+   22  git status
+   23  git commit -m "New file -Hello.txt"
+   24  git log
+   25  git config --global user.name "Rohit.Ranjan"
+   26  git config --global user.email "Rohit.Ranjan@mindtree.com"
+   27  git config --list
+   28  git push
+   29  git status
+   30  git config --global user.name "rohitr28"
+   31  git config --global.user.email "rohit.ranjan@mindtree.com"
+   32  git config --list
+   33  git config --global core.editor vi
+   34  git push
+   35  git config --global user.name "Rohit Ranjan"
+   36  git config --global.user.email "rohit.ranjan@mindtree.com"
+   37  git config --list
+   38  git config --global core.editor vi
+   39  git push
+   40  git status
+   41  cd Hello.txt
+   42  git status
+   43  git config --global user.name "Rohit Ranjan"
+   44  git config --global user.email "Rohit.Ranjan@mindtree.com"
+   45  git config --list
+   46  global core.editor vi
+   47  git push
+   48  git config --list
+   49  echo "hello" > hello.txt
+   50  git add  hello.txt
+   51  git commit -m "Rohit added hello txt file"
+   52  git config --list
+   53  git push
+   54  showlog
+   55  show log
+   56  short log
+   57  shortlog
+   58  cd 
+   59  cd https://github.com/rohitr28/devops301-mindtree-17Oct2020
+   60  cd https://github.com/rohitr28/devops301-mindtree-17Oct2020/
+   61  cd
+   62  https://github.com/rohitr28/devops301-mindtree-17Oct2020/
+   63  git config
+   64  git clone https://github.com/rohitr28/devops301-mindtree-17Oct2020
+   65  cd devops301-mindtree-17Oct2020/
+   66  git branch
+   67  git branch UAT
+   68  git checkout UAT
+   69  echo "UAT Branch" >UATBranch.txt 
+   70  git add UATBranch.txt
+   71  git status
+   72  git commit -m "UATBranch file -UATBranch.txt"
+   73  git checkout main
+   74  clear
+   75  git checkout main
+   76  git branch
+   77  git checkout master
+   78  git merge UAT
+   79  git push
+   80  git pull
+   81  ls
+   82  cd devops301-mindtree-17Oct2020/
+   83  git pull
+   84  git status
+   85  git push
+   86  git cheeckout UAT
+   87  git checkout UAT
+   88  ls
+   89  git status
+   90  echo "UAT Test 2" >> UATBranch.txt 
+   91  git add .; git commit -m "UAT Test2"; git push
+   92  git push --set-upstream origin UAT
+   93  git branch
+   94  git checkout master
+   95  history > historyDay1.txt
